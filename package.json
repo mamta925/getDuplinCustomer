@@ -1,6 +1,6 @@
 {
   "name": "customers_assigment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get customer within range(geo)",
   "main": "server.js",
   "scripts": {
