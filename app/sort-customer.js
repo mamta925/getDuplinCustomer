@@ -9,5 +9,4 @@ module.exports = sortCustomer = function (customers) {
         return 0;
     });
     return customers;
-
 };
